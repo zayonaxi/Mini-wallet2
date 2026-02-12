@@ -1,0 +1,9 @@
+body{font-family:Arial;background:#f4f6f9;margin:0;}
+.container{max-width:1000px;margin:30px auto;}
+.card{background:white;padding:20px;margin-bottom:20px;border-radius:10px;box-shadow:0 4px 10px rgba(0,0,0,0.1);}
+h1{text-align:center;}
+input,select{width:100%;padding:10px;margin-bottom:10px;border-radius:6px;border:1px solid #ccc;}
+button{padding:10px;border:none;border-radius:6px;background:#2ecc71;color:white;cursor:pointer;}
+button:hover{background:#27ae60;}
+table{width:100%;border-collapse:collapse;margin-top:10px;}
+th,td{border:1px solid #ddd;padding:8px;text-align:left;}
